@@ -1,7 +1,7 @@
 wmo = {
     0:  "☀️  Jasno",
     1:  "🌤️  Převážně jasno",
-    2:  "⛅  Polojasno",
+    2:  "⛅ Polojasno",
     3:  "☁️  Zataženo",
     45: "🌫️  Mlha",
     48: "🌫️  Námrazová mlha",
